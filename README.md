@@ -14,7 +14,7 @@ Viewport Height, also meaning window height, is height of user vision area. It c
 ScrollTop is the y position of user viewport. 
 <br>
 It is really easy if we see the picture below. 
-
+<br>
 ![alt text](google.gif "google")
 
 ## Explain
